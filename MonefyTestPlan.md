@@ -1,8 +1,11 @@
 # **Test plan for Monefy app (iOS)**
 
 **Object of testing**: Monefy application for money management (standard version, not updated to the pro version).
+
 **Version**: 1.2.10
+
 **OS**: iOS 9.0 or higher
+
 **Devices**: iPhone, iPad, iPod Touch
 
 Monefy is a money management tool which allows users to track their expenses and income. Therefore, operations of adding this data to the app and calculating total balance/expenses for a chosen period of time is the main function of Monefy. Considering the app has a pro version, the business goal is to sell it to the customer. This goal can be achieved if the main functions of this app are working and a customer has a positive user experience. Also, we need to check that customer doesn’t have access to special features until he updates to the pro version. 
