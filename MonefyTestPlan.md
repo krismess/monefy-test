@@ -25,7 +25,9 @@ So, first of all, we need to check:
 | ------ | ------ | ------ |
 |1| Update Monefy app from App Store | Application is updated successfully |
 |2| Open the application| Application is opened. User data displayed as it was before the update |
+
 **Additional step for PRO version**
+
 |#| Step | Expected result |
 | ------ | ------ | ------ |
 |1|  Check PRO version features availability| PRO version features are available after update |
@@ -103,6 +105,7 @@ According to Monefy feature list, in its PRO version passcode protection is avai
 
 **Disclaimer**: I don't have PRO version, so further is my speculation on how it probably should work.
 Devices for the test: iPhone 7 and iPhone Xs
+
 |#| Step | Expected result |
 | ------ | ------ | ------ |
 |1| Open Monefy on iPhone 7| Monefy app is opened. User should enter a passcode or use TouchID to use the app |
@@ -113,6 +116,7 @@ Devices for the test: iPhone 7 and iPhone Xs
 ## 8 Integration testing (for PRO version)
 According to Monefy feature list, in its PRO version Synchronization with Google Drive and Dropbox is available, which allows users to use the same account on several devices. 
 **Disclaimer**: I don't have PRO version, so further is my speculation on how it probably should work.
+
 |#| Step | Expected result |
 | ------ | ------ | ------ |
 |1| Open Monefy on the device A| Monefy app is opened|
